@@ -96,11 +96,11 @@ class MySQLConnector:
 if __name__ == "__main__":
     limpeza()
     config = {
-        'host': '127.0.0.1',
-        'user': 'root',
-        'password': 'F_H@ritos1253',
-        'database': 'facul',
-        'port': 3306
+        'host': '******',
+        'user': '******',
+        'password': '******',
+        'database': '******',
+        'port': ----
     }
     mysql_conn = MySQLConnector(**config)
     mysql_conn.connect()
