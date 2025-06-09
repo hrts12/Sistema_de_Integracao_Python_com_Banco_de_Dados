@@ -2,6 +2,11 @@
 
 Este projeto contém uma série de exercícios em Python que realizam consultas, atualizações, criação de tabelas, triggers e outras operações utilizando o banco de dados MySQL. Alem de possuir um controle de visual de tela usando funções e bibliotecas como tabulete, limpeza() e timer().
 
+## Documento preparatorio do Banco de Dados
+- DER
+- MER
+- Exemplo tabelas Banco de Dados
+
 ## Tecnologias utilizadas
 - Python
 - MySQL
