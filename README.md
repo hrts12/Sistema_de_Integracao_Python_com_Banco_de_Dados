@@ -1,4 +1,4 @@
-# Projeto de Consultas e Manipulação de Dados com MySQL
+# Sistema de intregação Python com o Banco de Dados
 
 Este projeto contém uma série de exercícios em Python que realizam consultas, atualizações, criação de tabelas, triggers e outras operações utilizando o banco de dados MySQL. Alem de possuir um controle de visual de tela usando funções e bibliotecas como tabulete, limpeza() e timer().
 
